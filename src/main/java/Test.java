@@ -1,5 +1,5 @@
 import singleton.EnumSingleton;
-import singleton.TestReference;
+import reference.TestReference;
 
 public class Test {
 

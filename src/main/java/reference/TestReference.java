@@ -1,4 +1,4 @@
-package singleton;
+package reference;
 
 import java.lang.ref.Reference;
 import java.lang.ref.ReferenceQueue;
